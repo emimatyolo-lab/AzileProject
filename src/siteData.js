@@ -5,8 +5,8 @@
 
 export const contact = {
   email: 'info@legalmastery.co.za',
-  whatsappNumber: '27XXXXXXXXX', // TODO: international format, no + or spaces e.g. 27821234567
-  whatsappDisplay: '+27 XX XXX XXXX', // TODO
+  whatsappNumber: '27634742759', // TODO: international format, no + or spaces e.g. 27821234567
+  whatsappDisplay: '+27 63 474 2759', // TODO
   whatsappMessage: 'Hi, I would like to find out more about the School of Legal Mastery.',
   socials: [
     { name: 'Facebook', url: 'https://facebook.com/' }, // TODO
