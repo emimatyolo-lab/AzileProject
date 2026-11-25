@@ -67,7 +67,7 @@ export default function Layout() {
         </div>
         <div className="container copyright">
           © {new Date().getFullYear()} Azile Mhlophe – School of Legal Mastery. All rights reserved.
-          <span> Website by Sygnalle IT.</span>
+          <span> Website by Emihle Matylo.</span>
         </div>
       </footer>
 
